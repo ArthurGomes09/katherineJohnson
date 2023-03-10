@@ -1,0 +1,67 @@
+:root{
+    --light-bege: #fffcf2;
+    --dark-clay: #403d39;
+    --extra-orange: #eb5e28;
+    --medium-clay: #ccc5b9;
+}
+body{
+    background-color:var(--dark-clay);
+}
+.lightbeige{
+    background-color: var(--light-bege);
+}
+.historia{
+    background-color: var(--extra-orange);
+}
+.historiatxt{
+    background-color: var(--dark-clay);
+}
+.katherinejo{
+    text-shadow: 5px 5px var(--extra-orange);
+}
+.cardzin1{
+    background-color: var(--light-bege);
+    color: var(--dark-clay);
+}
+.cardzin2{
+    background-color: var(--light-bege);
+    color: var(--dark-clay);
+}
+.cardzin3{
+    background-color: var(--light-bege);
+    color: var(--dark-clay);
+}
+.conquistas{
+    background-color: var(--light-bege);
+}
+.medalha{
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -300px;
+    
+}
+.galeria{
+    background-color: var(--medium-clay);
+}
+.photo1{
+    width: min-content;
+}
+.photo2{
+    width: min-content;
+}
+.photo3{
+    width: min-content;
+}
+.photo4{
+    width: min-content ;
+}
+.footer{
+    /* background-color: var(--extra-orange); */
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    color: var(--extra-orange);
+}
